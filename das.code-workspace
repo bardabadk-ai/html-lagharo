@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Downloads/Vazirmatn"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "das"
+	}
+}
